@@ -37,7 +37,7 @@ void setup() {
   lcd.backlight();
 
   lcd.setCursor(0, 1);
-  lcd.print("    Car  parking   ");
+  lcd.print("   Smart Car  parking ");
 
   Serial.println(" car parking  ");
   lcd.setCursor(0, 2);
